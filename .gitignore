@@ -1,1 +1,11 @@
-node_modules
+# Ignore node_modules folder
+node_modules/
+
+# Optional: Ignore logs and other generated files
+*.log
+*.lock
+*.json
+*.swp
+
+# Optional: Ignore environment-specific files
+.env
